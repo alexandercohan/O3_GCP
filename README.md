@@ -1,1 +1,1 @@
-This GitHub contains the code the article 'Predicting Air Pollution with Prophet on GCP'
+This GitHub contains code for the article 'Predicting Air Pollution with Prophet on GCP'
